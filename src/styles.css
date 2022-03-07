@@ -1,0 +1,15 @@
+/* You can add global styles to this file, and also import other style files */
+*{
+    font-family:  'Ubuntu', sans-serif;
+}
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    justify-content: space-around;
+    align-items: center;
+    height: 100vh;
+    display: flex;
+    background-color: rgb(75, 75, 243);
+}
+
